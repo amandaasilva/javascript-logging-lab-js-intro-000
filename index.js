@@ -1,3 +1,3 @@
 console.error( "HALP!" );
-console.log( "What?" );
-console.warn( "Hey" );
+console.log( "Moon" );
+console.warn( "Jupiter" );
